@@ -21,7 +21,15 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="Features" />
+      <SpecFlowFeatureFiles Include="..\MyFeatures\sample.feature">
+        <Link>Features/sample.feature</Link>
+      </SpecFlowFeatureFiles>
+    </ItemGroup>
+
+    <ItemGroup>
+      <Compile Include="..\MyFeatures\sample.feature.cs">
+        <Link>Features\sample.feature.cs</Link>
+      </Compile>
     </ItemGroup>
 
 </Project>
