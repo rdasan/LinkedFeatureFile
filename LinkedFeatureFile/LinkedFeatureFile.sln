@@ -2,8 +2,6 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedFeatureFile", "LinkedFeatureFile\LinkedFeatureFile.csproj", "{F9C7C093-7DFF-49F6-B785-D303035AB517}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFeatureFiles", "MyFeatureFiles\MyFeatureFiles.csproj", "{A65E9DAF-B3CD-4EA8-882C-B2800C455F58}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
